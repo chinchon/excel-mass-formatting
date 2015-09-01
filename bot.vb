@@ -5,7 +5,7 @@ Sub bot()
     Application.DisplayAlerts = False
     
     With Application.FileDialog(msoFileDialogOpen)
-        .InitialFileName = "\\DATA1\FORShare_DATA1\2014.11.19_Panasonic_DA\05_PIDMY\04_Test_Resultset\export\"
+        .InitialFileName = "C:\Users\Public\Documents"
         .AllowMultiSelect = True
         .Show
         all = .SelectedItems.Count
@@ -22,7 +22,7 @@ Sub bot()
             .TextFileColumnDataTypes = Array(2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2)
             .Refresh
         End With
-        xlApp.Run "\\DATA1\FORShare_DATA1\2014.11.19_Panasonic_DA\00_All\07_Analysis_Scripts\TestResults\format.xlsm!format"
+        xlApp.Run "C:\Users\Public\Documents\format.xlsm!format"
         xlBook.SaveAs Replace(filename, ".txt", ".xlsx"), 51
     
         xlApp.Quit
