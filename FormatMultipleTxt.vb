@@ -1,4 +1,4 @@
-Sub bot()
+Sub FormatMultipleTxt()
 
     Dim all, filename, i, xlApp, xlBook
     
@@ -22,7 +22,7 @@ Sub bot()
             .TextFileColumnDataTypes = Array(2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2)
             .Refresh
         End With
-        xlApp.Run "C:\Users\Public\Documents\format.xlsm!format"
+        Call FormatExcel(xlApp)
         xlBook.SaveAs Replace(filename, ".txt", ".xlsx"), 51
     
         xlApp.Quit
