@@ -6,9 +6,11 @@ Format.vb and FormatMultipleTxt.vb are saved in C:\Users\\<username>\AppData\Roa
 ## Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8OS0ixUJ1aI
 " target="_blank"><img src="http://img.youtube.com/vi/8OS0ixUJ1aI/0.jpg" 
-alt="Demo Video" width="240" height="180" border="10" /></a>
+alt="Demo Video" width="728" height="410" border="10" /></a>
 
 [![Demo Video](http://img.youtube.com/vi/8OS0ixUJ1aI/0.jpg)](http://www.youtube.com/watch?v=8OS0ixUJ1aI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8OS0ixUJ1aI" frameborder="0" allowfullscreen></iframe>
 
 ## Before
 ![alt text](https://github.com/chinchon/excel-mass-formatting/blob/master/before.png "Before Formatting")
