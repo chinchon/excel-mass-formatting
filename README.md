@@ -3,7 +3,7 @@ convert multiple raw txt files into formatted excel tables automatically
 
 Format.vb and FormatMultipleTxt.vb are saved in existing PERSONAL.XLSB so that the macros are accesible whenever Excel is open. PERSONAL.XLSB can be found at 
 
-C:\Users\\\<username>\AppData\Roaming\Microsoft\Excel\XLSTART\
+>C:\Users\\\<username>\AppData\Roaming\Microsoft\Excel\XLSTART\
 
 [Video Demo](https://youtu.be/8OS0ixUJ1aI)
 
