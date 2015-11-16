@@ -7,8 +7,8 @@ Format.vb and FormatMultipleTxt.vb are saved in existing PERSONAL.XLSB as macros
 
 [Video Demo](https://youtu.be/8OS0ixUJ1aI)
 
-### Before Formatting
+Before Formatting
 ![alt text](https://github.com/chinchon/excel-mass-formatting/blob/master/before.png "Before Formatting")
 
-### After Formatting
+After Formatting
 ![alt text](https://github.com/chinchon/excel-mass-formatting/blob/master/after.png "After Formatting")
