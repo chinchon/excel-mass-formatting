@@ -5,8 +5,6 @@ Format.vb and FormatMultipleTxt.vb are saved in existing PERSONAL.XLSB so that t
 
 [Video Demo](https://youtu.be/8OS0ixUJ1aI)
 
-https://www.youtube.com/watch?v=8OS0ixUJ1aI
-
 ### Before Formatting
 ![alt text](https://github.com/chinchon/excel-mass-formatting/blob/master/before.png "Before Formatting")
 
